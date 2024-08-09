@@ -23,6 +23,9 @@ cd svg-to-png-converter
 open index.html
 ```
 
+
+Alternatively, you can [view the live demo here](https://html-preview.github.io/?url=https://github.com/AnasQiblawi/SVG-to-Image-Converter/main/index.html).
+
 ## Usage
 
 1. **Enter SVG Code:**
